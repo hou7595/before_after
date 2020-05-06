@@ -5,7 +5,7 @@ author: Sahil Kumar <xdsahil@gmail.com>
 homepage: https://github.com/xsahil03x/before_after
 
 environment:
-  sdk: ">=2.2.0 <3.0.0"
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
 
 dependencies:
   flutter:
